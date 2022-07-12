@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dsfvr
-- 👀 I’m interested in ...game development
-- 🌱 I’m currently learning ...C# and Unity
+- 👀 I’m interested in ...game development + web development
+- 🌱 I’m currently learning ...̶C̶#̶ ̶a̶n̶d̶ ̶U̶n̶i̶t̶y̶  Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...it doesn't make any sense at the moment :)
 
